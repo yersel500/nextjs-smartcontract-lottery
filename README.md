@@ -1,34 +1,62 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+![](https://img.shields.io/badge/YERSEL-HURTADO-success)
+
+# SmartContract - Lottery - Front-End
+
+> SmartContract Lottery is a decentralized lottery project where users can enter raffle with 0.1ETH and the system guarantee a fair lottery among participants.
+
+## Back-end Repository
+
+You can find the back-end [here](https://github.com/yersel500/smartcontract-lottery).
+
+## Built With
+
+- **Solidity**
+- **NextJS**
+- **JavaScript**
+- **Visual Studio Code**
+
+## Live Version
+
+- Access to [Live Version](https://sparkling-butterfly-2231.on.fleek.co/)
 
 ## Getting Started
 
-First, run the development server:
+### To launch the project locally:
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+#### Step 1:
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- Clone the back end and front end repos locally using either github desktop or using the clone link provided by the green button on the top right.
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+- Alternatively, you can just download the complete zip file and extract the folder in your directory
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+#### Step 2:
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+In the back end project directory, you can run:
 
-## Learn More
+##### `yarn hardhat node`
 
-To learn more about Next.js, take a look at the following resources:
+#### Step 3:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+In the front end project directory:
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+- Install Metamask extension on your browser
+- Run `yarn run dev`
 
-## Deploy on Vercel
+## Author
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+👤 **Yersel Hurtado**
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+- GitHub: [@yersel500](https://github.com/yersel500/)
+- LinkedIn: [Yersel Hurtado](https://www.linkedin.com/in/yersel-hurtado/)
+- Twitter: [@YerselHurtado](https://twitter.com/YerselHurtado)
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome and highly encouraged!
+We feel that your input is what helps us grow so you're always Welcome :)
+
+Feel free to check the [issues page](../../issues/).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
